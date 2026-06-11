@@ -1,0 +1,6 @@
+{
+  "name": "PDF Master",
+  "description": "A PDF tool box with image to pdf, pdf merge, and pdf resize.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
